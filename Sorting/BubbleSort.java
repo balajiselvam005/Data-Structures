@@ -1,3 +1,12 @@
+//Bubble sort using java 
+
+// Time Complexity :
+//     Worst Case : O(n^2)
+//     Average Case : O(n^2)
+//     Best Case : O(n)
+
+// Space Complexity :
+//     Worst Case : O(1);
 
 import java.util.Scanner;
 
